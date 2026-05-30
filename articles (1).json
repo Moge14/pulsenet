@@ -1,0 +1,15 @@
+[
+  {
+    "id": "welcome-001",
+    "title": "Welcome to PulseNet",
+    "subtitle": "Your new home for game dev news, guides, and dev logs. Start writing to make it your own.",
+    "category": "News",
+    "tags": [
+      "welcome",
+      "getting started"
+    ],
+    "image": "",
+    "date": "2026-05-29T00:00:00.000Z",
+    "content": "## Welcome to PulseNet!\n\nThis is your personal game news and dev log site. Here's how to get started:\n\n### Writing Articles\n\nClick the **✦ WRITER** button in the top right and enter your passcode to open the editor.\n\n### Publishing to GitHub Pages\n\n1. Write your articles in the editor\n2. Export the `articles.json` file\n3. Put it in the same folder as `index.html`\n4. Commit and push to your repo\n\n> Your friends will see your articles at your GitHub Pages link automatically.\n\n### Markdown Support\n\nArticles support full Markdown formatting:\n\n- **Bold** and *italic* text\n- Headings with ## and ###\n- Blockquotes\n- Lists\n- `Inline code`\n\n---\n\nHave fun building!"
+  }
+]
